@@ -77,7 +77,7 @@ Este projeto é aberto para contribuições. Sinta-se à vontade para fazer um f
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE.txt) para mais detalhes.
 
 --- 
 
